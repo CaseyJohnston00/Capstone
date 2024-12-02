@@ -783,7 +783,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); /* Centers the text */
-    color: rgb(0, 0, 0); /* Text color */
+    color: rgb(255, 255, 255); /* Text color */
     text-align: center;
     z-index: 1; /* Ensures the text appears above the image */
     padding: 0 20px; /* Adds some padding around the text */
